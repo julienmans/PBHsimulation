@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Healpix>
+	<resolution value = "9" />
+</Healpix>
+<XraySpectrum>
+	<E0 value = "1." />     <!-- unit: GeV -->
+	<Gamma value = "1.57" />
+	<Ecut value = "3.78" /> <!-- unit: GeV -->
+</XraySpectrum>
+  
